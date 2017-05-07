@@ -8,6 +8,9 @@ class GlobalController < ApplicationController
   def what_we_do
   end
 
+  def impact
+  end
+
   def work_with_us
   end
 

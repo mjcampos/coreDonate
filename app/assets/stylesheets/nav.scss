@@ -1,0 +1,24 @@
+nav {
+	.nav_image {
+		height: 100%;
+	}
+	
+	.navbar-default {
+		background-color: transparent;
+		border-color: transparent;
+
+		.navbar-nav {
+			li > a {
+				color: white;
+			}
+		}
+	}
+
+	.navbar-right {
+		margin-top: 20px;
+	}
+
+	.nav-highlights {
+		font-size: 18px;
+	}
+}

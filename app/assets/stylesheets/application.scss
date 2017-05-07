@@ -1,6 +1,16 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "nav";
+@import "global";
 
-.nav_image {
-	height: 100%;
+body { 
+	background: url(./background.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h2, h3, h4 {
+	color: white;
 }
