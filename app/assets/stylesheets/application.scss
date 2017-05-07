@@ -2,6 +2,7 @@
 @import "bootstrap";
 @import "nav";
 @import "global";
+@import "charities";
 
 body { 
 	background: url(./background.png) no-repeat center center fixed; 
@@ -10,7 +11,7 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 
-	#global_public {
+	#global_public, #charities_home {
 		background-color: white;
 	}
 }

@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'charities/home'
+
   root 'global#home'
 
   get 'global/about'
