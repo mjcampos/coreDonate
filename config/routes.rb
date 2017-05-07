@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'corporates/home'
+
+  get 'coporates/home'
+
   get 'charities/home'
 
   root 'global#home'
