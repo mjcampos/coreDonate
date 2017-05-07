@@ -4,6 +4,8 @@ Rails.application.routes.draw do
   get 'global/about'
 
   get 'global/what_we_do'
+  
+  get 'global/impact'
 
   get 'global/work_with_us'
 

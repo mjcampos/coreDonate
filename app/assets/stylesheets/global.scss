@@ -20,3 +20,29 @@
 		color: #b1ff9a;
 	}
 }
+
+#global_public {
+	h2, h3 {
+		color: lightblue;
+	}
+
+	h4 {
+		color: initial;
+	}
+
+	ul {
+		list-style-type: none;
+
+		li > a {
+			color: green;
+		}
+	}
+
+	.col-sm-9 {
+		border-left: thin solid black;
+	}
+
+	.subrows p {
+		color: green;
+	}
+}
