@@ -4,17 +4,17 @@
 @import "global";
 
 body { 
-	background: url(./background.png) no-repeat center center fixed; 
+	background: url(./background.jpg) no-repeat center center fixed; 
+	opacity: 0.6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-
 	#global_public {
-		background-color: white;
+		background-color: black;
 	}
 }
 
 h2, h3, h4 {
-	color: white;
+	color: black;
 }
