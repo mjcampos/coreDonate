@@ -16,4 +16,7 @@ class GlobalController < ApplicationController
 
   def public
   end
+
+  def non_profits_we_love
+  end
 end

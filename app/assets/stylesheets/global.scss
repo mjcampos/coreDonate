@@ -21,7 +21,7 @@
 	}
 }
 
-#global_public {
+#global_public, #global_non_profits_we_love {
 	h2, h3 {
 		color: lightblue;
 	}
@@ -44,5 +44,9 @@
 
 	.subrows p {
 		color: green;
+	}
+
+	img {
+		max-width: 100%;
 	}
 }

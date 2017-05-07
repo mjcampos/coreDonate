@@ -16,6 +16,7 @@ Rails.application.routes.draw do
   get 'global/work_with_us'
 
   get 'global/public'
+  get 'global/non_profits_we_love'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
