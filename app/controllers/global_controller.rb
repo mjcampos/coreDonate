@@ -14,6 +14,6 @@ class GlobalController < ApplicationController
   def work_with_us
   end
 
-  def funding_projects
+  def public
   end
 end

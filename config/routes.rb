@@ -7,7 +7,7 @@ Rails.application.routes.draw do
 
   get 'global/work_with_us'
 
-  get 'global/funding_projects'
+  get 'global/public'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
